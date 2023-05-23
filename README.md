@@ -1,0 +1,1 @@
+Simple full stack vanilla js app using ExpressJs & Mongo
